@@ -1,0 +1,2 @@
+# macro python
+ praticando python
